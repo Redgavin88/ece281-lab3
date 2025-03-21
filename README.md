@@ -4,5 +4,6 @@ VHDL for ECE 281 [Lab 3](https://usafa-ece.github.io/ece281-book/lab/lab3.html)
 
 Targeted toward Digilent Basys3. Make sure to install the [board files](https://github.com/Xilinx/XilinxBoardStore/tree/2018.2/boards/Digilent/basys3).
 
+![WaveForm]({BEAD0E94-4FB1-48A3-8F2C-9B6CB3389106}.png)
 Built for Vivado 2024.2 on Windows 11.
 
